@@ -1,0 +1,11 @@
+C:\Users\vlads\Desktop\Vlad\Scoala\AN II - Sem 2\mtp\APLICATII\SFRANCIOG_T1\SFRANCIOG_T1\bin\Debug\SFRANCIOG_T1.exe.config
+C:\Users\vlads\Desktop\Vlad\Scoala\AN II - Sem 2\mtp\APLICATII\SFRANCIOG_T1\SFRANCIOG_T1\bin\Debug\SFRANCIOG_T1.exe
+C:\Users\vlads\Desktop\Vlad\Scoala\AN II - Sem 2\mtp\APLICATII\SFRANCIOG_T1\SFRANCIOG_T1\bin\Debug\SFRANCIOG_T1.pdb
+C:\Users\vlads\Desktop\Vlad\Scoala\AN II - Sem 2\mtp\APLICATII\SFRANCIOG_T1\SFRANCIOG_T1\obj\Debug\SFRANCIOG_T1.csproj.AssemblyReference.cache
+C:\Users\vlads\Desktop\Vlad\Scoala\AN II - Sem 2\mtp\APLICATII\SFRANCIOG_T1\SFRANCIOG_T1\obj\Debug\SFRANCIOG_T1.csproj.SuggestedBindingRedirects.cache
+C:\Users\vlads\Desktop\Vlad\Scoala\AN II - Sem 2\mtp\APLICATII\SFRANCIOG_T1\SFRANCIOG_T1\obj\Debug\SFRANCIOG_T1.Form1.resources
+C:\Users\vlads\Desktop\Vlad\Scoala\AN II - Sem 2\mtp\APLICATII\SFRANCIOG_T1\SFRANCIOG_T1\obj\Debug\SFRANCIOG_T1.Properties.Resources.resources
+C:\Users\vlads\Desktop\Vlad\Scoala\AN II - Sem 2\mtp\APLICATII\SFRANCIOG_T1\SFRANCIOG_T1\obj\Debug\SFRANCIOG_T1.csproj.GenerateResource.cache
+C:\Users\vlads\Desktop\Vlad\Scoala\AN II - Sem 2\mtp\APLICATII\SFRANCIOG_T1\SFRANCIOG_T1\obj\Debug\SFRANCIOG_T1.csproj.CoreCompileInputs.cache
+C:\Users\vlads\Desktop\Vlad\Scoala\AN II - Sem 2\mtp\APLICATII\SFRANCIOG_T1\SFRANCIOG_T1\obj\Debug\SFRANCIOG_T1.exe
+C:\Users\vlads\Desktop\Vlad\Scoala\AN II - Sem 2\mtp\APLICATII\SFRANCIOG_T1\SFRANCIOG_T1\obj\Debug\SFRANCIOG_T1.pdb
